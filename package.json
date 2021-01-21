@@ -1,0 +1,14 @@
+{
+  "name": "akeno",
+  "version": "1.0.0",
+  "description": "A discord anime bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ainasepics": "^1.6.5"
+  }
+}
